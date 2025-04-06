@@ -8,23 +8,23 @@ Proje, Python tabanlı Django web çatısı kullanılarak geliştirilmiştir. Ve
 
 ## Ana sayfa Görünümü
 
-![Anasayfa](images/1.png)
+![Ana sayfa](images/1.png)
 
-## Kategoriye Göre Ürün Listeleme Sayfası
+## Ana sayfa Görünümü - 2
 
-![Ürün Listeleme Sayfası](images/2.png)
+![Ana sayfa2](images/2.png)
 
-## Ürün Filtreleme Sistemi
+## Tarif Kategorileri Sayfası
 
-![Ürün Filtreleme Sistemi](images/3.png)
+![Tarif Kategorileri](images/3.png)
 
-## Ürün İçerik Sayfası
+## Kategori İçerik Sayfası
 
-![Ürün İçerik Sayfası](images/4.png)
+![Kategori İçerik Sayfası](images/4.png)
 
-## Yönetim Paneli Sayfası
+## Yemek Tarifi Sayfası
 
-![Yönetim Paneli Sayfası](images/5.png)
+![Yemek Tarifi Sayfası](images/5.png)
 
 ---
 
